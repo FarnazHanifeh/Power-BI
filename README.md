@@ -18,7 +18,7 @@ This Power BI dashboard aims to offer a comprehensive view of sales data through
 
 ## Data Source
 
-The data files used in this dashboard were downloaded from [Xelplus](https://pages.xelplus.com/powerbi-int...). 
+The data files used in this dashboard were downloaded from [Xelplus](https://pages.xelplus.com/powerbi-intro-files). 
 
 ## Acknowledgements
 
